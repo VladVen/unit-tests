@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`React App Test regular test 1`] = `
+<input
+  data-testid="value-input"
+  placeholder="Type"
+  type="text"
+/>
+`;
